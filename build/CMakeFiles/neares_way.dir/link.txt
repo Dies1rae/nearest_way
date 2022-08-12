@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/neares_way.dir/main.cpp.o -o game/neares_way 
